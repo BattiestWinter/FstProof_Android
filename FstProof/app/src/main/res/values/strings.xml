@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FstProof</string>
+    <string name="app_mes">Bienvenido</string>
+    <string name="app_mes_butt">Entrar</string>
+</resources>

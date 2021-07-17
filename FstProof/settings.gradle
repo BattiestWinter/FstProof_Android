@@ -1,0 +1,2 @@
+rootProject.name = "FstProof"
+include ':app'

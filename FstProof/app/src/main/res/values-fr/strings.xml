@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FstProof</string>
+    <string name="app_mes">Bienvenue</string>
+    <string name="app_mes_butt">Entrer</string>
+</resources>
